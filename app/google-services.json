@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "499477219487",
+    "firebase_url": "https://ohli-c1148.firebaseio.com",
+    "project_id": "ohli-c1148",
+    "storage_bucket": "ohli-c1148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499477219487:android:68d0642cc32383c7",
+        "android_client_info": {
+          "package_name": "moe.noitamina.ohli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499477219487-ed0f9js3a938gur04r5vrcnjrbhbbjn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaqtDKsogdkQiJxncj9VR7XyK88DUffQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

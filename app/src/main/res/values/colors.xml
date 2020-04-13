@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">#cceeff</color>
+    <color name="colorPrimaryDark">#aaddff</color>
+    <color name="colorAccent">#66ccff</color>
+    <color name="colorBgProgress">#7fffffff</color>
+</resources>

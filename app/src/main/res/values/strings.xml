@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OHLI 알리미</string>
+    <string name="sync_processing">동기화 중...</string>
+    <string name="sync_problem">동기화에 문제가 발생했습니다.</string>
+    <string name="setting_ani">애니 알림 설정</string>
+    <string name="setting_maker">제작자 알림 설정</string>
+    <string name="all_ani">모든 작품</string>
+    <string name="all_maker">모든 제작자</string>
+    <string name="empty_arrow">↑</string>
+    <string name="empty_comment">동기화가 필요합니다.\n좌측 상단의 동기화 버튼을 눌러주세요.</string>
+</resources>

@@ -1,0 +1,149 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportHeight="160"
+    android:viewportWidth="160">
+    <item>
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="160dp"
+            android:height="160dp"
+            android:viewportHeight="160"
+            android:viewportWidth="160">
+
+            <path
+                android:pathData="
+M   48	48	48  64
+M   48	48	64	48
+M   64	48	64	64
+M   48	64	64	64
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#80C8FF"
+                android:strokeLineCap="round"
+                android:strokeWidth="30" />
+            <path
+                android:pathData="
+M   48	48	48  64
+M   48	48	64	48
+M   64	48	64	64
+M   48	64	64	64
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#FFFFFF"
+                android:strokeLineCap="round"
+                android:strokeWidth="20" />
+
+            <path
+                android:pathData="
+M   96	48	96  64
+M   96	48	112	48
+M   112	48	112	64
+M   96	64	112	64
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#80C8FF"
+                android:strokeLineCap="round"
+                android:strokeWidth="30" />
+            <path
+                android:pathData="
+M   96	48	96  64
+M   96	48	112	48
+M   112	48	112	64
+M   96	64	112	64
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#FFFFFF"
+                android:strokeLineCap="round"
+                android:strokeWidth="20" />
+            <path
+                android:pathData="
+M 97 45  97 67
+M 97 45  97 70Z
+M 97 56 111 56
+M111 45 111 67
+M111 45 111 70Z
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#80C8FF"
+                android:strokeLineCap="round"
+                android:strokeWidth="6" />
+
+            <path
+                android:pathData="
+M   48	96	48  112
+M   48	96	64	96
+M   64	96	64	112
+M   48	112	64	112
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#80C8FF"
+                android:strokeLineCap="round"
+                android:strokeWidth="30" />
+            <path
+                android:pathData="
+M   48	96	48  112
+M   48	96	64	96
+M   64	96	64	112
+M   48	112	64	112
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#FFFFFF"
+                android:strokeLineCap="round"
+                android:strokeWidth="20" />
+            <path
+                android:pathData="
+M49  93 49 115
+M49  93 49 118Z
+M47 116 65 116Z
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#80C8FF"
+                android:strokeLineCap="round"
+                android:strokeWidth="5" />
+
+            <path
+                android:pathData="
+M   96	96	96  112
+M   96	96	112	96
+M   112	96	112	112
+M   96	112	112	112
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#80C8FF"
+                android:strokeLineCap="round"
+                android:strokeWidth="30" />
+            <path
+                android:pathData="
+M   96	96	96  112
+M   96	96	112	96
+M   112	96	112	112
+M   96	112	112	112
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#FFFFFF"
+                android:strokeLineCap="round"
+                android:strokeWidth="20" />
+            <path
+                android:pathData="
+M104 93 104 115
+M104 93 104 118Z
+"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#80C8FF"
+                android:strokeLineCap="round"
+                android:strokeWidth="5" />
+        </vector>
+    </item>
+    <item
+        android:top="42dp"
+        android:left="44dp"
+        android:width="24dp"
+        android:height="28dp"
+        >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="oval">
+            <solid android:color="#00000000" />
+            <stroke android:color="#80C8FF" android:width="5dp" />
+        </shape>
+    </item>
+</layer-list>
