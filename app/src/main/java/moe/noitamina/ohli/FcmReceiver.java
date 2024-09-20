@@ -35,7 +35,7 @@ public class FcmReceiver extends FirebaseMessagingService {
                 TableAni ta = DBHelper.getInstance(getApplicationContext()).useAni();
                 // 선택된 애니가 0개일 경우 필터링 안 함
                 if (ta.usingCount() > 0) {
-                    if (ta.selectUsing(mNo) == null) {
+                    if (ta.selectUsing(aNo) == null) {
                         return;
                     }
                 }
